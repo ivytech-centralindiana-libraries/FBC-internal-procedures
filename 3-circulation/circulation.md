@@ -66,6 +66,10 @@ Committee members: Paula Hearn & Erica McFarland
 [ILL Borrowing Checklist for Lawrence Campus](http://library.ivytech.edu/ld.php?content_id=18340301)
 
 ## Textbooks/Reserves
+[Reserve Textbook Policy](http://library.ivytech.edu/ld.php?content_id=19840984)
+
+## General Collection
+Patrons are allowed to checkout up to 10 books.  However, they are not allowed to check out all books on a specific subject. For example,  if the library has 8 books on food deserts, they can check out 2 or 3.  Explain to the student that many other students may be interested in the same topic.  
 
 ## Lost Items
 
