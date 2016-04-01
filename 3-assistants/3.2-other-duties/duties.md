@@ -37,3 +37,14 @@ The full-time Library Assistant does periodical inventory of supplies to determi
 Shelf Reading can be done if there are other staff members in the Library to watch the Front Desk and no other projects or tasks to do. It can also be done if a librarian assigns a particular area to be completed by an assistant because of weeding needing to be done or if the area is particularly messy.
 
 The assistant simply starts reading the call numbers from one end of the shelving unit to the other to make sure that all of the books are in correct call number order.  (See [Putting Call Numbers in Shelf Order](http://library.ivytech.edu/c.php?g=416463&p=2837874#s-lg-box-wrapper-11785989)).  When shelf reading, make sure the books on a shelf line up neatly and that there is a book at the end of the shelf face-out for display if there is a book stand there.
+
+##Ticket Systems
+
+###IT Tickets
+1. Fill out an [IT Ticket](https://helpdesk.ivytech.edu/SelfService/Create.html)
+2. Submit the ticket, and be sure to post the ticket on the [Lawrence Library Blog](http://lawrence-library.blogspot.com/).
+
+###Facilities Tickets
+[Facilities Ticket](https://21k4dm-2y15y8.bigwebapps.com/?org=21k4dm&dept=2y15y8)
+
+Facilities Tickets are submitted by the full-time Library Assistant or Assistant Director only.
