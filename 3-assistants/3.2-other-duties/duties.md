@@ -17,7 +17,37 @@ The full-time Library Assistant does periodical inventory of supplies to determi
 ##Interlibrary Loan
 [Interlibrary Loan Policy](http://library.ivytech.edu/c.php?g=399021&p=2711608#s-lg-box-8293034)
 
-##Library Guides
+##Library Guides for Assistants
+
+### Initial Set Up
+As a new employee, the Web Services Librarian should set up a Springshare LibApps accont for you. This account login acts as the gateway for many different tools under the LibApps system, and one of those tools is LibGuides. It is an Ivy Tech Libraries policy that we refer to LibGuides as Library Guides.
+
+### Getting to Know LibGuides
+Once you have an account in LibApps, watch ["Getting to Know LibGuides,"](http://support.springshare.com/libguides/training/basics/recording#s-lg-box-5719891) a tutorial created by Springshare. This video is a beginner's guide to the skills that assistants need to know to work in the LibGuides platform.
+
+<iframe src="https://player.vimeo.com/video/154096135" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### Check in with Librarian
+Upon completion of the tutorial, the assistant should check in with the Web Services Librarian. The Web Services Librarian will check the assistant's knowledge and understanding of the following LibGuide tasks:
+
+1. Logg in to LibApps
+2. Navigate to LibGuides
+3. Select a guide to edit
+4. Create a new page
+5. Create a box with links
+6. Create a box with books from catalogue
+7. Create a box with text and an image
+8. Reuse an exisitng box
+9. Change a box layout
+10. Reorder pages
+11. Reorder boxes
+
+### Ongoing Duties
+Assistants will edit guides as needed. Librarians will assign guides for assistants to edit. If an assistant cannot access the guide assigned to them, the assistant should ask the librarian for editing permissions in LibGuides. 
+
+### Additional Help
+If there is ever a question on how to perform a task within LibGuides (or any other LibApps tool), please check the [Springshare Support & Documentation](http://support.springshare.com/libguides). If the answer cannot be found in the Springshare Support documentation, forward your question to the Web Services Librarian.
+
 
 ##Shelving Books
 1. It is extremely important that books are shelved and kept in their correct order. 
