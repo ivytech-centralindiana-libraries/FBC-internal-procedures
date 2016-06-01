@@ -5,9 +5,70 @@ Displays are routinely changed each month.  Librarians do the planning for each 
 
 Background paper for the displays are found in the tall black storage cabinet.  Borders for the displays are found in the yellow and purple boxes on top of the storage cabinets.  
 
+For a list of posters that can be used for displays, see [FBC Posters](http://library.ivytech.edu/c.php?g=416463&p=3316457).
+
 When changing displays out each month, make sure the glass shelves are dusted and the glass doors are clean.
 
-Before any books can be put on the display shelves, they must be put On Display in Voyager.  This is to ensure that if a student is looking for a book that is not on the shelf, if it is On Display, there is another place to look for it. (See Putting Books on Display).
+Before any books can be put on the display shelves, they must be put On Display in Voyager.  This is to ensure that if a student is looking for a book that is not on the shelf, if it is "On Display," there is another place to look for it. To begin the process of putting the books on display, scan all books into a Notepad file and name the file by display title and month/year, i.e. Poetry April2016. Save the file under the Book Displays folder on the J:Drive. Make sure to process the file in the Pick and Scan function on Voyager when putting the books on and off display. (See [Changing Temporary Location](http://library.ivytech.edu/c.php?g=416463&p=3249759#s-lg-box-wrapper-11825872)).
+
+You may sometimes need to laminate items for displays.  The Laminator Manual is available below, as well as an [online demo](http://www.fellowes.com/us/en/Products/Pages/product-details.aspx?prod=US-5727701&cat=&subcat=&tertcat) on how to use it.
+
+[Laminator Manual](http://library.ivytech.edu/ld.php?content_id=21234422)
+
+##Using the Silhouette
+
+###General Instructions
+1. Plug the Silhouette machine’s power cord into an outlet and the USB cable into the computer’s USB port
+2. Turn the Silhouette machine on using the power button located at the top right of the machine 
+3. Open the Silhouette software (located on all computers in the Office Manager’s office)
+4. Once Silhouette software is open, click Design (one of the fourths of the circle)
+5. Letters: 
+  - Select the Text icon
+  - Type your words/letters
+  - To change the font/size, you must highlight the text and then make adjustments by using the Text Style section on the right
+  - It may be best to reorganize the letters in order to maximize space. You can right click on the text and select Ungroup. This will allow you to position each individual letter. 
+6. To create Bubbles for letters/words:
+  - Right click on the original text and select Offset
+  - Delete the original text
+![Screenshot of offset/ungroup Silhouette](http://s3.amazonaws.com/libapps/accounts/62228/images/1.png)
+7. Shapes:
+  - Select Show Library
+  - Search for the shape(s) you would like
+  - Double click on the shape to add it to the document
+  - You can increase or decrease the size of the shape by clicking and dragging the small boxes in the corners of the page
+8. Ready to cut
+  - Place the paper to be cut on the cutting mat. It is best to line up the top of the paper with the top of the cutting mat because sometimes the Silhouette machine cuts a little higher than the actual line.
+  - To load the paper and cutting mat, line the mat up with the two rollers on the front of the Silhouette machine. Press and hold the Enter button on the Silhouette machine to load
+  - To begin cutting, go to Silhouette (located on the top menu bar of the Silhouette software) and select Send to Silhouette
+![Screenshot of "Send to Silhouette"](http://s3.amazonaws.com/libapps/accounts/62228/images/2.png)
+  - Your file will begin to be cut
+  - Once cutting is finished, hold down the Enter button to release the paper and cutting mat
+  - Pull the paper off the cutting mat
+9. Once you are finished cutting, turn the Silhouette machine off by pressing the power button
+10. Unplug Silhouette from power outlet and computer and return all Silhouette supplies to their designated areas
+
+###Cutting Specifications
+
+####Cutting Stencil Material
+
+1. Select magnetic sheet
+2. thickness 30
+3. speed 3
+4. copy and paste 3 times
+5. put smooth side down on matt
+
+####Cutting Construction Paper - Light
+
+1. thickness 25
+2. speed 8
+3. yellow cap
+
+####Cutting Vinyl
+
+1. Do NOT use a mat
+2. put speed slow at 1
+3. thickness 3 or 4
+4. blue cap
 
 ##Office Supplies
 The full-time Library Assistant does periodical inventory of supplies to determine if any are needed.  Ivy Markets training provided by Ivy Tech is necessary to order items.  If you use something and it is in short supply, please notify the full time Library Assistant via email--especially if it is copier/printer toner.
@@ -16,6 +77,15 @@ The full-time Library Assistant does periodical inventory of supplies to determi
 
 ##Interlibrary Loan
 [Interlibrary Loan Policy](http://library.ivytech.edu/c.php?g=399021&p=2711608#s-lg-box-8293034)
+Add SRCS procedures
+
+Add ILL Procedures for Borrowing
+
+Add ILL Procedures for Lending
+
+Add Info Express Procedures
+
+[Interlibrary Loan Procedures](http://library.ivytech.edu/c.php?g=472892)
 
 ##Library Guides for Assistants
 
@@ -71,10 +141,14 @@ The assistant simply starts reading the call numbers from one end of the shelvin
 ##Ticket Systems
 
 ###IT Tickets
-1. Fill out an [IT Ticket](https://helpdesk.ivytech.edu/SelfService/Create.html)
-2. Submit the ticket, and be sure to post the ticket on the [Lawrence Library Blog](http://lawrence-library.blogspot.com/).
+[IT Ticket](https://helpdesk.ivytech.edu/SelfService/Create.html)
+
+Once you fill out and submit an IT ticket, be sure to post the ticket on the [Lawrence Issues blog](http://lawrence-library.blogspot.com/).  IT tickets should be filled out only by the Web Services librarian or the full-time Library Assistant.
 
 ###Facilities Tickets
 [Facilities Ticket](https://21k4dm-2y15y8.bigwebapps.com/?org=21k4dm&dept=2y15y8)
 
-Facilities Tickets are submitted by the full-time Library Assistant or Assistant Director only.
+Once you fill out and submit a facilities ticket, be sure to post the ticket on the [Lawrence Issues blog](http://lawrence-library.blogspot.com/). Facilities Tickets are submitted by the full-time Library Assistant or Assistant Director only. Username and password are phearn and books3
+
+[How to Submit Facilities Tickets](http://library.ivytech.edu/ld.php?content_id=21234135)
+Not everyone has a login.
