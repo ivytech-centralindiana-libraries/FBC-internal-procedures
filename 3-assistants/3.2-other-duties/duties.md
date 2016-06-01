@@ -75,6 +75,21 @@ The full-time Library Assistant does periodical inventory of supplies to determi
 
 ##Copier/Printer Maintenance
 
+###Ordering Supplies
+
+1. Home landing URL: http://iot.gisx.com/ClientPortal
+2. Click “Supply Orders”
+3. Click “ Office Equipment toner and supplies”
+4. Provide the info (red = mandatory, black = optional). The equipment ID = the ID on the sticker on the front of the device. It will begin with either a “BL” or a “BM”.
+ 
+
+###Request a Service Call
+
+1. Home landing URL: http://iot.gisx.com/ClientPortal
+2. Click “Service Request”
+3. Enter the requested information. Provide the info (red = mandatory, black = optional). The equipment ID = the ID on the sticker on the front of the device. It will begin with either a “BL” or a “BM”.
+4. Requestor should receive a call back from a Xerox technician within an hour at the number they provide, and an onsite visit/resolution within 4 hours if needed.
+
 ##Interlibrary Loan
 [Interlibrary Loan Policy](http://library.ivytech.edu/c.php?g=399021&p=2711608#s-lg-box-8293034)
 Add SRCS procedures
