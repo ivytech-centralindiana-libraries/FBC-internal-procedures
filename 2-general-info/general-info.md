@@ -1,10 +1,10 @@
 #General Information
  
- ##Staff Communication
+##Staff Communication
  
- ###In Case of Illness
+###In Case of Illness
  
- ###Inclement Weather
+###Inclement Weather
  As part of Ivy Tech Community College's ongoing effort to keep students, faculty and staff informed, the College has implemented an urgent information messaging system. [Ivy Tech Alert](https://www.ivytech.edu/alert/) allows students, faculty and staff to receive time-sensitive messages in the form of text messages and/or emails about inclement weather campus closings and other campus emergencies (lockdowns).  Go to the link provided to sign up.
  
 ###Schedule Changes
