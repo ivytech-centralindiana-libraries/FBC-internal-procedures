@@ -94,3 +94,16 @@ Library workers may help students with copying by showing them which buttons to 
 12. Insert phone number
 13. Click accept/next
 14. Select “I’m Done”
+
+##Phones
+###Phone Greeting at Front Desk
+Thank you for calling Ivy Tech Lawrence Library. This is ________________,  how may I help you?
+
+###Voicemail
+To retrieve voice mail, simply follow the directions on the phone.
+
+[Messages for the Circ Phone](http://library.ivytech.edu/ld.php?content_id=21234051)
+[Telephone Manual](http://library.ivytech.edu/ld.php?content_id=21234052)
+
+##Blackboard
+[Click here to access Blackboard directly](https://online.ivytech.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1).  Blackboard offers [116 tutorials on YouTube](https://www.youtube.com/playlist?list=PL21OXrPLgJ7FmGcCytboo6J1oMpIdFRLG) for students and faculty to learn how  to use it. 
