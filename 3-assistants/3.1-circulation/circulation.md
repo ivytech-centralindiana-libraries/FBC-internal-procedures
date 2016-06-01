@@ -1,14 +1,31 @@
 #Circulation
 
 ##Steps for Check-out
+[Checking Out or Charging Items with ID](http://library.ivytech.edu/c.php?g=416463&p=3249759#s-lg-box-wrapper-11825917)
+
+[Checking Out or Charging Items without ID](http://library.ivytech.edu/c.php?g=416463&p=3249759#s-lg-box-wrapper-11825928)
 
 ##Steps for Check-in
+[Checking In or Discharging Items](http://library.ivytech.edu/c.php?g=416463&p=3249759#s-lg-box-wrapper-11825950)
+
+[Checking In or Discharging Items with Fines](http://library.ivytech.edu/c.php?g=416463&p=3249759#s-lg-box-wrapper-11825960)
 
 ## General Collection
 Patrons are allowed to checkout up to 10 books.  However, they are not allowed to check out all books on a specific subject. For example,  if the library has 8 books on food deserts, they can check out 2 or 3.  Explain to the student that many other students may be interested in the same topic.  
 
 ## Textbooks/Reserves
 [Reserve Textbook Policy](http://library.ivytech.edu/ld.php?content_id=19840984)
+
+- 4 hour checkout period.
+- Textbooks may be removed from the library.
+- Textbooks may be taken home overnight if checked out within 4 hours of closing.
+- Textbooks cannot be placed on hold.
+- Textbooks can be renewed 1 time only if a second copy of the textbook is available.
+- Textbooks can only be checked back out if the patron waits 1 hour to allow other students access to the textbook.
+- Textbooks must be returned to the library from which it was checked out.
+- Textbooks must be handed directly to a library staff member at the circulation desk. They may not be placed in a drop-box.
+- Initial fine for late textbooks is 5₵ / minute with a 15 minute grace period.
+- Textbooks are marked as “lost” after 1 day. Additional fines will be calculated at this time.
 
 ## Mobile Devices
 
@@ -44,74 +61,43 @@ Patrons are allowed to checkout up to 10 books.  However, they are not allowed t
 
 1. Discharge book from Voyager record
 2. Send info to Office Manager who will then send on to Technical Services (Michele) to delete
-3. Send same info on to Assistant Director of that library in case they want to re-order
-4. Remove the hold from Banner
+3. She will also send on to Assistant Director of that library in case they want to re-order
+4. She will also remove the hold from Banner
 
 ##Fines & Fees
 
-###Visiting Students – WGU, IWU, Franklin University
+###[Fines & Fees General Information](http://http//library.ivytech.edu/c.php?g=416463&p=3271909)
 
-No reserve textbook checkout. Use college ID from their institution.
-(Insert Procedures here…put procedure for when Voyager goes down…who to contact, put in tix, send email to rest of staff including NMC and GRN)
+[Fine Appeals](http://library.ivytech.edu/c.php?g=416463&p=3271909#s-lg-box-wrapper-11907711)
 
-{Fines paid at Bursar.  If student pays a fine at the Bursar and shows receipt at library, library staff posts amount on Voyager (Bursar has already cleared Banner), paid with credit card, in description field, notes “paid at Bursar” and dates and initials of library staff.}
+[NMC's 10% Plan](http://library.ivytech.edu/c.php?g=416463&p=3271909#s-lg-box-wrapper-11907718)
 
-{Veteran’s Day fines forgiven.  The week of Veteran’s Day, if vet shows military ID we forgive all fines for overdue, fines for lost item replacement do not apply. 
+##Patrons with Double C Numbers
+When a student has two separate C#’s, she/he’s re-enrolled and Registrar has created a new account.
 
-Food for fines – the last 4 weeks of the semester, we forgive any overdue fines when students bring in non-perishable items with valid expiration date for the Bear Necessities pantry.  Fines for lost item replacement do not apply. 
+- Have full-time Library Assistant walk down to Registrar and take print out of the two C#’s with names
+- Registrar will put in a ticket to get the invalid C# deleted.
+- Registrar will tell full-time Library Assistant which is the valid C#
+- Full-time Library Assistant contacts Voyager team (Page Cotton) to allow deletes
+- Full-time Library Assistant deletes the invalid C# when Voyager team has contacted her that deletes are allowed.
 
-Technically, no limit to how much food they can bring to pay off overdue fine.  1 can--$1; 1 package = $1
+##Study Rooms
+When you check out a study room, be sure to give  the patron the door hanger with time out written on it in dry-erase marker. They will hang this on the hook on the outside of the study room door.  The door hangers and keys with fob are in the second left-hand drawer of the circulation desk.
 
-[Deletes – Need to work on.  Can we delete sooner than two years?  After two years, delete overdue fines but don’t delete fines for lost books or textbooks.]
+Students can check out dry erase markers and erasers to use in the study room on the whiteboard.  The markers and erasers are in the bottom left drawer of the circulation desk.
 
-For REF c/o – train support staff to offer the free scan option….it lowers the risk of REF title being lost/damaged.
+Students should leave the key fob at the circulation desk if they need to leave library for a short amount of time, such as to go to the restroom or to the vending machines.
 
-When a student pays a fine at the Bursar’s, they send an email to me and Deb.  Deb normally goes into voyager, adjusts the record to reflect the payment, sometimes they don’t pay the whole amount so you have to be careful…payment method is “credit card” rather than cash…there’s no “paid at bursar’s option.”   
+[WePresent Tutorial](http://library.ivytech.edu/ld.php?content_id=20532209)
 
-## Fine Appeals
+##DVDs
+No DVD’s with call number starting with the letter R are checked out to students to be taken outside the library.  Faculty may check them out and take them out of the library, and you should ask how long they need it for and input the date in Voyager.  
 
-###Outcomes of Appeal Process
+The DVDs on reserve do not leave the library, but check out to students to be used in house only.  Ask students if they have headphones; if not, they need to check out a study room to view the DVD.  
 
-- Consistency of fine amounts throughout the library system
-- Adequate time for review of student appeals
-- Reduction of time front line staff spends dealing with fine issues
+**Always check inside the case when the DVDs are returned to make sure the DVD is actually inside.**
 
-[Fine Appeal Page on Library Website](http://library.ivytech.edu/c.php?g=367299&p=2484403)
+##Community Users
+Link to policy about community users and JITA accounts
 
-[Fine Appeal Form](https://docs.google.com/forms/d/1NakfHqW8As6mQOYNcQNo8q-GDrGYYPPHY2p8z6T0MPY/viewform)
-
-####Committee members
-
-Committee chair: Erica McFarland
-
-Committee members: Paula Hearn & Erica McFarland
-
-####Process
-
-1. Patron disputes library fine at counter; librarian reviews fine with patron.
-2. Patron submits appeal form to committee.
-3. Committee meets on a weekly basis in person or by phone to review appeals.  If needed, a member may contact patron for additional information.
-4. Committee’s first email response will be sent to student within 7-10 business days.  This first response may be a request for additional information or final decision of the committee.  The director and all committee members will be blind copied on all email communications. 
-  * NOTE: Email has to be sent from a personal email account.  If a committee member has had previous communication with a student about the appeal, that member should not send the committee’s response.
-5. Documentation of appeal process is noted throughout on the patron’s Voyager record. A new note should be created for each fine appeal.  Within that note, the following steps should be listed with date completed, staff initials, and outcome of that step:  appeal form received date, written appeal outcome.  Additional notes should be added as necessary to explain special circumstances.
-
-####Fine Appeals Procedure (Spring 2012)
-- The assistant managers at each library location receive the appeal via form forge.
-- The student is immediately sent an email stating the appeal has been received and will be responded to within one week. 
-- Voyager updated with note that appeal has been filed, the date.  (Appeal pending d/m/year) .
-- The assistant managers review the account, the circumstances, ask for documentation if needed, then decide outcome of the appeal within one week.
-- Student notified of the decision with email stating what the current fine is, how and where to pay it,and statements reinforcing that policy will be upheld in the future in the case of forgiving fines.
-- Voyager adjusted to reflect decision.  Banner updated also if needed.
-- All correspondence is saved Google doc sheet.
-- To ensure proper communication, both managers and director have been bcc’d on all correspondence.
-- We need to decide consistent place and method for notes on the student record.  In notes (general) or in the fine screen.
-
-##NMC 10% Plan
-We don't offer the 10% option at Lawrence but we honor an NMC agreement with a student if they come to check out at LAW.  They have to have their receipt, there has to be notes on Voyager....if those 2 things are not in place then we can't honor it at LAW and they will not be allowed to check out here at LAW.  You refer them back to NMC--tell them "I apologize" but they will have to check out at NMC because we can do nothing without a receipt or notes on Voyager.
-
-10% payment plan – have to file fine appeal first.  No “stop gap” part..Pay 10% then file appeal. 
-
-1. Submit fine appeal.
-2. Could approve or reduce or waive fine altogether or offer 10% payment plan.
-3. Put notes on record in popups that they have accepted 10% plan, initial and date, explained fine policy, newest notes on top.
-4. 10% allows student to c/o for one week.  They are responsible for showing receipt to show payment (wouldn’t this be in Voyager record?)
+Create a hidden page with procedures to create community users and distribute JITA passes (J: drive)
