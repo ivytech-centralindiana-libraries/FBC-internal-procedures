@@ -1,59 +1,27 @@
 #General Information
-
-##Communication
-
-###Email 
-Answer all emails by the end of the next scheduled business day.  If you are out for more than one regularly scheduled day, have your phone message and your email message set for out of office with alternate numbers listed. 
-
-###Phone
-When answering an outside line, always answer the phone with “Ivy Tech (Branch) Library” and your name, and “how may I help you?” 
-
-###Business cards
-Business cards will be ordered for librarians, fulltime staff, and others at the discretion of the Library Director.
+ 
+ ##Staff Communication
+ 
+ ###In Case of Illness
+ 
+ ###Inclement Weather
+ As part of Ivy Tech Community College's ongoing effort to keep students, faculty and staff informed, the College has implemented an urgent information messaging system. [Ivy Tech Alert](https://www.ivytech.edu/alert/) allows students, faculty and staff to receive time-sensitive messages in the form of text messages and/or emails about inclement weather campus closings and other campus emergencies (lockdowns).  Go to the link provided to sign up.
+ 
+###Schedule Changes
+Email requests for schedule changes to the Assistant Director and the full-time Library Assistant as soon as possible.  Even when you verbally ask for a schedule change, the request should be sent via email to give each of them a written record of the request.  This is done for time-off, a change in hours on a particular day, vacation, or if you wish to work extra hours to make up for previous time off.
 
 ##Desk Etiquette
-Patron service is the number one priority at the front desk.  Staff demeanor should always be friendly, welcoming and approachable. Personal conversations should not take place at the front desk.  No headphones or earbuds are to be worn at the front desk.
+- Always greet students with a hello and a smile when they first walk in the library.
+- If you need to say “no”, explain why in a calm and respectful manner.
+- Always treat the patrons with respect.
+- If you are the only one on duty at the Circulation Desk and it is very busy (more than five patrons are waiting) you may ask the office manager or librarian on duty to help you if he/she is free. 
+- If you are the only one on duty at the Circulation Desk and you want to leave the work area, either for break or washroom, please let the office manager and/or librarian on duty know. 
+- If patrons complain about the library policy or procedure, refer them to the office manager.  If the issue cannot be resolved with the office manager, refer them to the assistant director in charge. 
+- Staff will give patron with complaint the Assistant Director's card and email the assistant director with the history of the problem along with patron info.
+- If a patron is rude to you, refer them to the office manager.  If the issue cannot be resolved with the office manager, refer them to the assistant director in charge, or excuse yourself and ask another person on duty to attend to the patron.
+- When a patron is upset or demanding, take him/her to the librarian in charge at that time.
 
-##Food and Drink
-No eating at the Circulation Desk, but you may eat at your desk in a back office, or in the kitchen or campus employee lounge.  Drinks should be in closed containers if at your desk, and can be taken to the Circulation Desk.  
+##Copying & Printing
+Library workers may help students with copying by showing them which buttons to push, how to use the coin machine, or showing them the correct placement of items to be copies, but may not demonstrate or make copies for them.  This is due to the copyright laws and the Notice posted on the copier, which states "The Copyright Laws of the United States(Title 17,U.S. Code) Governs the Making of Photocopies or other Reproductions of Copyrighted Material.  Any Person Using this Equipment is Liable for any Infringement."
 
-##Cell Phones
-Cell phones can be kept at your desk, but if you are at the Circulation Desk, they should be muted.  No personal calls while on the Circulation Desk, and texting should be kept to a minimum. 
-
-##Computer Use and Printing
-Personal computer use is allowed only on your personal breaks away from the front desk.  For other questions, please consult the [Ivy Tech Employee Handbook](https://www.ivytech.edu/hr/ft-handbook.html#computerpolicies).
-
-##Dress Code
-When you work in the Ivy Tech Library, you represent both it and the college.  Neat, professional dress helps to project the professional image we want; it is a first step in making people realize that we are competent and serious about helping them.  
-
-Following is a guide to appropriate work attire:
-
-**Preferred**
-- Slacks
-- Dresses or skirts
-- Blouses
-- Sweaters
-- Dress or sport shirts 
-- Dress or casual shoes (low to medium heel)
-
-**Acceptable**
-- Jeans allowed depending on job duties.  Address concerns to assistant director.
-- Nice jeans - no holes, fringe, slits, faded spots, etc.
-- Nice knit shirts/T-shirts, No advertising nor vulgarity.
-
-**Unacceptable/Not Allowed**
-- Shorts
-- Skin tight clothing
-- Low-cut tops or see-through tops
-- Unbuttoned shirts or tops
-- Halter tops
-- No midriff showing-bottom hem of top should fall below the waist
-- Very high heels
-- Bare feet
-- Plastic flip flops
-- Hats (to be removed in work area)
-- Sunglasses (to be removed in work area)
-- Any clothing that appears too sporty or casual
-
-##Disciplinary Action
-If/when there are incidents of non-compliance, the incidents will be documented and saved in employee's record.  There will be a meeting scheduled with Human Resources after 3 incidents of non-compliance.
+##Scanning & Fax
