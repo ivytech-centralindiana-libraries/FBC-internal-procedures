@@ -103,6 +103,7 @@ Thank you for calling Ivy Tech Lawrence Library. This is ________________,  how 
 To retrieve voice mail, simply follow the directions on the phone.
 
 [Messages for the Circ Phone](http://library.ivytech.edu/ld.php?content_id=21234051)
+
 [Telephone Manual](http://library.ivytech.edu/ld.php?content_id=21234052)
 
 ##Blackboard
