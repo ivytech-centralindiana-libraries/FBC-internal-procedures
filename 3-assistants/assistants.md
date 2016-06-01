@@ -23,7 +23,7 @@
 - If mail comes, distribute to proper person/location
 - Clean white boards in study rooms and classroom if needed.
 
-###End of Shift (If Closing)
+###If Closing at End of Day
 - Complete and check off closing procedures.
 - Check the HOLD shelf. If any items that are ILL are past their HOLD date, place in Outgoing Requests bin.  If any items on HOLD from our library, place back on shelf.
 
@@ -47,7 +47,7 @@ Please empty boxes and place books on book cart. Take box to recycle. Tape routi
 ###After replacing printer toner
 Prepare empty printer toner cartridges for recycling. Empty cartridge should be put in box that new cartridge came in.  Fill out the return label that came in the new toner box and attach label to outside of box and seal box with mailing tape.  If last box of toner, inform Office Manager via email.
 
-##When Tasks Are Complete
+##When Tasks Completed...
 - Ask the librarian on duty if they have a project for you to work on.
 - Shelf read. The shelves always need straightened and checked to see if books are out of order.
 - Look to see what needs cleaned or straightened: shelves dusted, windows cleaned, countertop in copy room, computer monitors and/or keyboards, etc.
