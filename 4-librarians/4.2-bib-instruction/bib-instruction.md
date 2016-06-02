@@ -9,7 +9,7 @@ Once faculty have filled out the request form for an instruction session, the As
 - The librarian assigned creates lesson with IDEA and/or other resources that meets instructor's requirements
 - Determine if instructor would like handouts for class; create handout or have assistant print enough for class
 - Full time library assistant confirms the class date and time with instructors
-- 
+
 ##Roving and Pop-Ins
 Each librarian is given an ipad to use during work.  The librarian can use the ipad to roam the halls during class change periods, lunch time, or anytime they notice a large number of students present.  The iPad can be used to give the librarian experience in assisting students with that technology.  Librarians may download free apps or pay for apps that they wish for personal use.
 
