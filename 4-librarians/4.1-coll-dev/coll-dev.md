@@ -34,6 +34,8 @@ The library maintains many textbooks on reserve for short-term use in the librar
 [Textbook Purchasing Procedure](http://library.ivytech.edu/ld.php?content_id=20473188)
 
 ##Midwest Library Service
+
+###Basics
 Midwest Library Services is the service we use to order our books for Ivy Tech Libraries.  It is at http://midwestls.com/.  Bookmark it on your browser.  You will receive a username and password from them.
 
 Once you login, to look for books you can select either Express Entry or Database Access, either on the light blue toolbar or in the listing on the page.  If you use the Database Access option, you are more likely to get results with an LC call number, so you know if it is in your liaison section.  You would also see a picture of the book cover.
@@ -50,8 +52,7 @@ When you see the book price, it is the retail price, and not the actual net pric
 
 If you need any help or have questions call Terry or Steven at Midwest. They are very helpful and willing to do whatever is needed to help you with your orders. Midwest number is 800-325-8833. They do not have voice mail so if you get a busy signal, call back later.
 
-## Ordering through Midwest Library Service
-
+###Ordering
 1. Use the year's PO (ask full-time Library Assistant for your new PO number). Do not fill in any box that says ‘Fund’. Midwest will do that when they separate the books according to the final price – below $35 or above $35.
 2.Once you have your cart ready to order, with PO number, Quantity, and all Internal Comments added, go to the Pending Actions option on the light blue bar at the top of the page.
 3. Click on Confirm Order Transactions.
@@ -62,7 +63,7 @@ If you need any help or have questions call Terry or Steven at Midwest. They are
 8. Save this Excel spreadsheet in the J drive under the new Midwest file. Each librarian will find a folder there for you to put your spreadsheet/cart reports in.  These reports need to have public access so that if something needs to be processed and Michele or Andy is not available, then others can go in a do the processing for you.
 9. You will have to go into your account to find the final total prices for each cart you order. There is no way for you to know the discounted price until the invoice for your cart is loaded into your account. Once you have that you can record the final total for your cart in your CD spreadsheet page. It will be up to you to track your own spending. The invoices the NMC full-time Office Assistant (Dionna) will receive will not break up the orders in carts. They will list everything that is sent out each week and may be a combination of carts from different librarians’ orders.
 
-## Checking Order Status
+###Checking Order Status
 1. Hover over Account Activity on the light blue toolbar. 
 2. Click on Order Status.
 3. Put check marks in the check boxes for both Invoiced and Ordered books.
@@ -72,3 +73,37 @@ If you need any help or have questions call Terry or Steven at Midwest. They are
 7. A list of your books ordered will come up.  Under Status, it will either say Ordered or Invoiced.  
 8. If it is Invoiced, the Price will be the corrected net Price.  You will need to correct your Excel spreadsheet saved in your file on the J:drive, so you can keep track of your spending.  
 9. Once you have the prices of each of the books on your order, be sure to update the Collection Development Budget spreadsheet in the Orders file on the J:drive.
+
+###Setting up Selection Profiles
+Selection Profiles can be set up by each librarian in Midwest Library Services.  These profiles, if set up to monitor LC classification, can be used to limit searches to only those within your LC range, and to receive once weekly new book reviews within your LC range.  Setting up Selection Profiles is not mandatory, it is simply a tool that will make collection development much easier.
+
+To set up your Profile:
+
+1. Once you login to MLS, look under the Collection Development tab or list on the homepage.
+2. Click on Work with Selection Profiles
+3. Make sure your name is showing on the page under Select a user...then click Create New Profile
+4. Name your profile whatever you want.  If you are looking at several different LC classes or subjects, you might want to name the profile by the LC class, (for example, HM-HX) or by subject (Sociology).  Save your profile name.
+5. Below that, under Database Selection, decide where you want to get your reviews from and how often.
+6. Next, click on the Subject and Non-Subject Preferences tab, and select LC classification for use in limiting searches and receiving
+new books reviews in your liaison areas.  (These instructions cover LC classification; if you want to set up selection profiles for other types of preferences, you can).
+7. If you are liaison for an entire LC range, such as all "R's" then click the radio button under yes for that range.  If you are only liaison for part of an LC range, click on the link and then select smaller ranges (for example, RC-RJ) by selecting the radio button under Dup and Yes by each. Click Save these Selections.
+8. Once you are done selecting LC ranges, use your breadcrumbs at the top to go back to your profile--it will show up in the breadcrumbs as the profile you named it.
+9. Select the Notification Recipients tab, then Add Recipient.
+10. This is where you add yourself as an email recipient from a drop down menu.  If you don't select email from the Method of Notification, you will not get any emails.  You may also choose to enable ordering from these notifications at this step.
+11. SAVE
+12. If you would like to set up multiple profiles, this is when you would use your breadcrumbs again to go back to Work with Selection Profiles and start over.
+
+##Weeding
+Weed using the guidelines in the [Collection Development Policy](http://library.ivytech.edu/c.php?g=453550&p=3098374).  When weeding, books that are to be deleted are scanned into a Temporary Deletes Status.  A report is run each week with all books with that status and sent to the Technical Services Department at NMC.  These barcodes are deleted, but the actual books are not sent.  
+
+There are four options of what to do with weeded/deleted books.
+
+1. Books with incorrect information in them that is dangerous, ie. older healthcare books, are shredded.
+2. Books that are fiction or of general interest to the public can be placed in the Free Little Library.  There is a shelf in the Library Office for these books.
+3. Books of personal interest to library employees can be saved for them to take home once deleted.  
+4. Some books are donated to Better World Books through the Ivy Tech Foundation.  Below is list of what is acceptable to send. The Foundation receives a small amount of money for our donations. 
+  - Books for the donation need to be boxed up and sent to the Technical Services Department at NMC.
+  - Put labels on the boxes and send a “heads up” email to let them know when they are coming. 
+  - Let Tech Services know how many boxes are on the way and that you have labeled them and inside the box, put a sheet that says “DELETES FOR BWBooks.”
+ 
+[Better World Books Donations](http://library.ivytech.edu/ld.php?content_id=21386937)
