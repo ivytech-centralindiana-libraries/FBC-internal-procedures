@@ -27,6 +27,8 @@
 - Complete and check off closing procedures.
 - Check the HOLD shelf. If any items that are ILL are past their HOLD date, place in Outgoing Requests bin.  If any items on HOLD from our library, place back on shelf.
 
+[Daily Tasks Sheet](http://library.ivytech.edu/ld.php?content_id=20473451)
+
 ##Weekly Tasks
 - Use special cleaning product for cleaning white boards in the study rooms and classroom.
 - Use Clorox wipes to clean the student computer keyboards and computer tables.
@@ -51,6 +53,3 @@ Prepare empty printer toner cartridges for recycling. Empty cartridge should be 
 - Ask the librarian on duty if they have a project for you to work on.
 - Shelf read. The shelves always need straightened and checked to see if books are out of order.
 - Look to see what needs cleaned or straightened: shelves dusted, windows cleaned, countertop in copy room, computer monitors and/or keyboards, etc.
-
-##Daily/Weekly Tasks
-[Daily Tasks Sheet](http://library.ivytech.edu/ld.php?content_id=20473451)
