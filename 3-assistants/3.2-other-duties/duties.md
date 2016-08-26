@@ -24,9 +24,22 @@ For a list of posters that can be used for displays, see [FBC Posters](http://li
 
 When changing displays out each month, make sure the glass shelves are dusted and the glass doors are clean.
 
-Before any books can be put on the display shelves, they must be put On Display in Voyager.  This is to ensure that if a student is looking for a book that is not on the shelf, if it is "On Display," there is another place to look for it. To begin the process of putting the books on display, scan all books into a Notepad file and name the file by display title and month/year, i.e. Poetry April2016. Save the file under the Book Displays folder on the J:Drive. Make sure to process the file in the Pick and Scan function on Voyager when putting the books on and off display. (See [Changing Temporary Location](http://library.ivytech.edu/c.php?g=416463&p=3249759#s-lg-box-wrapper-11825872)).
+Before any books can be put on the display shelves, they must be put On Display in Voyager.  This is to ensure that if a student is looking for a book that is not on the shelf, if it is "On Display," there is another place to look for it. 
 
-You may sometimes need to laminate items for displays.  The Laminator Manual is available below, as well as an [online demo](http://www.fellowes.com/us/en/Products/Pages/product-details.aspx?prod=US-5727701&cat=&subcat=&tertcat) on how to use it.
+- To begin the process of putting the books on display, scan all books into a Notepad file and name the file by display title and month/year, i.e. Poetry April2016. Creating the Notepad file ensures that when all books in the file are taking out of the "On Display" status, even books that are checked out will have the status removed.
+- Save the file under the Book Displays folder on the J:Drive. Make sure to process the file in the Pick and Scan function on Voyager when putting the books on and off display. (See [Changing Temporary Location](http://library.ivytech.edu/c.php?g=416463&p=3249759#s-lg-box-wrapper-11825872)).
+- Save the file in the Book Displays folder on the `J:Drive/FBC Staff/FBC General`.
+- Make sure to process the file in the Pick and Scan function on Voyager when putting the books on and off display. (For instructions to place one book at a time, see Changing Temporary Location).
+  - Click the `Functions` tab at the top left of the screen
+  - Select `Pick and Scan…`
+  - Under `Locations` in the top-left of the screen you’ll notice dropdown lists for `Permanent` and `Temporary`.
+  - To change `Temporary` locations, select the dropdown arrow to choose `Temporary` location and select `Fairbanks Center On Dis`.
+  - Then click on the `Records To Change` tab in the top-middle of your screen.
+  - Underneath `What to do` in the top-right corner of your screen, select `Update Database`.
+  - Directly below that is the `File` box; click on the 3 dots at the end of that box.  This will open a dialog box for you to find and select the saved Notepad txt file.
+  - Select the correct file.
+  - Click on `Process File`.  You should see the large screen flash with all the records in the file processing.
+  - Then click Close in the bottom-right of the screen. 
 
 [Laminator Manual](http://library.ivytech.edu/ld.php?content_id=21234422)
 
@@ -38,12 +51,12 @@ You may sometimes need to laminate items for displays.  The Laminator Manual is 
 3. Open the Silhouette software (located on all computers in the Office Manager’s office)
 4. Once Silhouette software is open, click Design (one of the fourths of the circle)
 5. Letters: 
-  - Select the Text icon
+  - Select the `Text` icon
   - Type your words/letters
-  - To change the font/size, you must highlight the text and then make adjustments by using the Text Style section on the right
-  - It may be best to reorganize the letters in order to maximize space. You can right click on the text and select Ungroup. This will allow you to position each individual letter. 
+  - To change the font/size, you must highlight the text and then make adjustments by using the `Text Style` section on the right
+  - It may be best to reorganize the letters in order to maximize space. You can right click on the text and select `Ungroup`. This will allow you to position each individual letter. 
 6. To create Bubbles for letters/words:
-  - Right click on the original text and select Offset
+  - Right click on the original text and select `Offset`
   - Delete the original text
 ![Screenshot of offset/ungroup Silhouette](http://s3.amazonaws.com/libapps/accounts/62228/images/1.png)
 7. Shapes:
@@ -90,23 +103,40 @@ The full-time Library Assistant does periodical inventory of supplies to determi
 
 ##Copier/Printer Maintenance
 
-###Ordering Supplies
+###To Order Supplies:
 
 1. Home landing URL: http://iot.gisx.com/ClientPortal
 2. Click “Supply Orders”
-3. Click “ Office Equipment toner and supplies”
+3. Click “Office Equipment toner and supplies”
 4. Provide the info (red = mandatory, black = optional). The equipment ID = the ID on the sticker on the front of the device. It will begin with either a “BL” or a “BM”.
+5. To get copier paper, contact Jason Anderson at janderson302@ivytech.edu; phone: 921-4202
  
+####Copier ID Numbers
+ID-BM442 B&W
 
-###Request a Service Call
+ID-BM436 Color
+
+###To Request a Service Call
 
 1. Home landing URL: http://iot.gisx.com/ClientPortal
 2. Click “Service Request”
 3. Enter the requested information. Provide the info (red = mandatory, black = optional). The equipment ID = the ID on the sticker on the front of the device. It will begin with either a “BL” or a “BM”.
-4. Requestor should receive a call back from a Xerox technician within an hour at the number they provide, and an onsite visit/resolution within 4 hours if needed.
+
+Requestor should receive a call back from a Xerox technician within an hour at the number they provide, and an onsite visit/resolution within 4 hours if needed.
+
+**Xerox service manager who will be monitoring the device and is our point of contact until the issues are resolved as of June 28, 2016:**
+
+Ashley Ellis
+
+Direct# 1-800-284-9667
+
+aellis@iot-xerox.com
 
 ##Interlibrary Loan
-[Interlibrary Loan Policy](http://library.ivytech.edu/c.php?g=399021&p=2711608#s-lg-box-8293034)
+[Interlibrary Loan Procedures](http://library.ivytech.edu/c.php?g=472892) *under construction*
+
+[Interlibrary Loan Policy](http://library.ivytech.edu/c.php?g=399021&p=2711608#s-lg-box-8293034) 
+
 Add SRCS procedures
 
 Add ILL Procedures for Borrowing
@@ -114,8 +144,6 @@ Add ILL Procedures for Borrowing
 Add ILL Procedures for Lending
 
 Add Info Express Procedures
-
-[Interlibrary Loan Procedures](http://library.ivytech.edu/c.php?g=472892)
 
 ##Library Guides for Assistants
 
@@ -169,5 +197,40 @@ Shelf Reading can be done if there are other staff members in the Library to wat
 The assistant simply starts reading the call numbers from one end of the shelving unit to the other to make sure that all of the books are in correct call number order.  (See [Putting Call Numbers in Shelf Order](http://library.ivytech.edu/c.php?g=416463&p=2837874#s-lg-box-wrapper-11785989)).  When shelf reading, make sure the books on a shelf line up neatly and that there is a book at the end of the shelf face-out for display if there is a book stand there.
 
 ##Double Logins
+If a student or community user is logged in to more than one computer at a time, send a message via NetControl that states "No double logins allowed. Please log off one computer."  After allowing a few minutes for student to respond, shut one of the computers down using NetControl.
 
 ##Net Control 2 Pro
+###Introduction to Net Control:
+
+1. Begin by clicking the start button and entering Net Control 2 in the search bar.
+2. Click on the program to open it.​
+3. Double click F124-G to view the library computers.  Double click F126-G to view the classroom computers.
+4. Wait for the computer stations to load.
+
+###How to send messages on Net Control:
+
+1. Once the computer stations have completely loaded click on Messaging in the top middle of the screen.
+2. Then click Messages, which is located to the left of the Chat option.
+3. On the right of the screen there will now be a section that says “Text of Message” with a blank box and below that are background options. Next to the blank box there is a dropdown arrow. Click the arrow and preset messages will display on the screen.
+4. Select the message you want all users to see on their screen.
+  - Computers restart five minutes before the library closes. Closing messages are sent thirty minutes prior, fifteen minutes prior, ten minutes prior, and one minute prior to the computers restarting.
+  - If the library closes at 5 PM send the message, “Library closes at 5pm. Computers will shut down at 4:55 pm. Please save your work” at 4:30, 4:45, and 4:50. At 4:54 PM send a different message that reads, “Final Reminder! Computers will shut down in 1 minute. Please save work.” Then restart the computers. To see how to restart computers view How to Restart Computers Below.
+5. Then click anywhere in the empty white space on the left side of the screen and press CTRL + A to select all of the stations.
+6. Once all computers have been selected you may hit the send button.
+7. The message should have broadcasted successfully. If you feel unsure that the message was sent correctly, sometimes you can see that the message was sent because it still remains on computers that had recent activity. You can also watch a computer that is in view of the circulation desk as the message pops up on the screen.
+
+###How to Restart Computers with Net Control:​
+
+1. Once the computer stations have completely loaded click on Control in the top left of the screen. Control is located to the left of "Messaging". 
+2. Click on the white space and then press Ctrl + A to select all of the computer stations.
+3. In the control bar there is a shut down option, the option is eighth from the left. Select the dropdown arrow and choose Restart-Forced.
+4. The computers should then reboot.
+  - Use this feature to restart computers at the end of the night. If the lab was open for the day make sure you restart those stations as well. 
+
+###Restarting Individual Computers:​
+
+1. Once the computer stations have completely loaded click on Control in the top left of the screen. Control is located to the left of "Messaging". 
+2. Click on the single computer you wish to restart.
+3. In the control bar there is a shut down option, the option is eighth from the left. Select the dropdown arrow and choose Restart-Forced.
+4. The computers should then reboot. 
+  - Use this feature when a student left their computer logged in when they left or when there are students with a double login (they are both on the computer with the same student account). 
