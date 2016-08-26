@@ -168,3 +168,6 @@ Shelf Reading can be done if there are other staff members in the Library to wat
 
 The assistant simply starts reading the call numbers from one end of the shelving unit to the other to make sure that all of the books are in correct call number order.  (See [Putting Call Numbers in Shelf Order](http://library.ivytech.edu/c.php?g=416463&p=2837874#s-lg-box-wrapper-11785989)).  When shelf reading, make sure the books on a shelf line up neatly and that there is a book at the end of the shelf face-out for display if there is a book stand there.
 
+##Double Logins
+
+##Net Control 2 Pro
