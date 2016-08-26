@@ -1,5 +1,20 @@
 #Other Duties & Responsibilities
 
+##Ticket Systems
+
+###IT Tickets
+[IT Ticket](https://helpdesk.ivytech.edu/SelfService/Create.html)
+
+Once you fill out and submit an IT ticket, be sure to post the ticket on the [Lawrence Issues blog](http://lawrence-library.blogspot.com/).  IT tickets should be filled out only by the Web Services librarian or the full-time Library Assistant.
+
+###Facilities Tickets
+[Facilities Ticket](https://21k4dm-2y15y8.bigwebapps.com/?org=21k4dm&dept=2y15y8)
+
+Once you fill out and submit a facilities ticket, be sure to post the ticket on the [Lawrence Issues blog](http://lawrence-library.blogspot.com/). Facilities Tickets are submitted by the full-time Library Assistant or Assistant Director only. Username and password are phearn and books3
+
+[How to Submit Facilities Tickets](http://library.ivytech.edu/ld.php?content_id=21234135)
+Not everyone has a login.
+
 ##Displays
 Displays are routinely changed each month.  Librarians do the planning for each display, then may delegate putting it together to the assistants.  This is one of the special projects that can be assigned.  
 
@@ -153,17 +168,3 @@ Shelf Reading can be done if there are other staff members in the Library to wat
 
 The assistant simply starts reading the call numbers from one end of the shelving unit to the other to make sure that all of the books are in correct call number order.  (See [Putting Call Numbers in Shelf Order](http://library.ivytech.edu/c.php?g=416463&p=2837874#s-lg-box-wrapper-11785989)).  When shelf reading, make sure the books on a shelf line up neatly and that there is a book at the end of the shelf face-out for display if there is a book stand there.
 
-##Ticket Systems
-
-###IT Tickets
-[IT Ticket](https://helpdesk.ivytech.edu/SelfService/Create.html)
-
-Once you fill out and submit an IT ticket, be sure to post the ticket on the [Lawrence Issues blog](http://lawrence-library.blogspot.com/).  IT tickets should be filled out only by the Web Services librarian or the full-time Library Assistant.
-
-###Facilities Tickets
-[Facilities Ticket](https://21k4dm-2y15y8.bigwebapps.com/?org=21k4dm&dept=2y15y8)
-
-Once you fill out and submit a facilities ticket, be sure to post the ticket on the [Lawrence Issues blog](http://lawrence-library.blogspot.com/). Facilities Tickets are submitted by the full-time Library Assistant or Assistant Director only. Username and password are phearn and books3
-
-[How to Submit Facilities Tickets](http://library.ivytech.edu/ld.php?content_id=21234135)
-Not everyone has a login.
