@@ -91,3 +91,10 @@ Professional development opportunities are available from a large variety of res
 - Annual Conference in October
 
 ###[Midwest Collaborative for Library Service - MCLS](http://www.mcls.org/)
+
+##Listservs
+- [CJC-L Community and Junior College Listserv](http://www.ala.org/acrl/aboutacrl/directoryofleadership/sections/cjcls/cjclswebsite/listserv)
+- [Collib-L College Libraries Section](http://www.ala.org/acrl/aboutacrl/directoryofleadership/sections/cls/clswebsite/collibldisc/collibldiscussion)
+- [ACRLframe - ACRL Framework for Information Literacy for Higher Education](http://lists.ala.org/sympa/info/acrlframe)
+- [ili-l Information Literacy Instruction Listserv](http://lists.ala.org/sympa/info/ili-l)
+- [Voyager Listserv](https://listserv.nd.edu/cgi-bin/wa?A0=VOYAGER-L)
